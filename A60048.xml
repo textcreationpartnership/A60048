@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short and strange relation of some part of the life of Tafiletta the great conqueror and emperor of Barbary by one that hath lately been in His Majesties service in that country.</title>
+            <author>One that hath lately been in His Majesties service in that country.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60048</idno>
+            <idno type="STC">Wing S3552</idno>
+            <idno type="STC">ESTC R28759</idno>
+            <idno type="EEBO-CITATION">10757347</idno>
+            <idno type="OCLC">ocm 10757347</idno>
+            <idno type="VID">45669</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45669)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1367:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short and strange relation of some part of the life of Tafiletta the great conqueror and emperor of Barbary by one that hath lately been in His Majesties service in that country.</title>
+                  <author>One that hath lately been in His Majesties service in that country.</author>
+               </titleStmt>
+               <extent>26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for Samuel Lowndes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rashīd, --  Sultan of Morocco, 1630 or 31-1672.</term>
+               <term>Morocco --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45669:1"/>
+            <pb facs="tcp:45669:1" rendition="simple:additions"/>
+            <p>A Short and Strange RELATION Of ſome part of the LIFE OF TAFILETTA, The Great <hi>CONQ<g ref="char:V">Ʋ</g>EROR</hi> and <hi>EMPEROR</hi> OF BARBARY.</p>
+            <p>By one that hath lately been in His Majeſties Service in that Country.</p>
+            <p>LONDON: Printed by <hi>T. N.</hi> for <hi>Samuel Lowndes,</hi> over againſt <hi>Exeter-Houſe</hi> in the <hi>Strand.</hi> 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45669:2"/>
+            <pb n="1" facs="tcp:45669:2" rendition="simple:additions"/>
+            <head>A ſhort and ſtrange RELATION Of ſome part of the Life of <hi>TAFILETTA.</hi>
+            </head>
+            <p>
+               <hi>TAfiletta</hi> is a great Kingdom of <hi>Afri<g ref="char:EOLhyphen"/>ca,</hi> farr advanced into the Land: It is part of the ancient <hi>Numidia,</hi> now called <hi>Biledulgerid</hi> by ſome; It is South-Eaſt of the City of <hi>Fez.</hi> The Inhabitants are a mixt People, of ſeveral Nations; the greateſt part are <hi>Blacks,</hi> who are ſaid to be the Sons of the Curſed <hi>Cham.</hi> The Nobleſt are <hi>Saracens,</hi> otherwiſe called <hi>Larbes:</hi> Theſe are the Lords of the Country, the reſt are the vanquiſhed Poſterity of the Warlike Nati<g ref="char:EOLhyphen"/>ons of the North, the <hi>Goths</hi> and <hi>Vandals;</hi> that ſeem to have choſen that Confinement, as a ſafe
+<pb n="2" facs="tcp:45669:3"/>
+retreat, farr from the acquaintance of the <hi>Euro<g ref="char:EOLhyphen"/>pean</hi> Swords: with which their over-aged Bodies were not ſo able to deale, as with the effemi<g ref="char:EOLhyphen"/>nate courage of the In-land Inhabitants.</p>
+            <p>They quietly enjoyed their Conqueſts many years; and had eſtabliſhed there a famous Em<g ref="char:EOLhyphen"/>pire that reached South as far as the Sands and Mountains would permit, and North to the Me<g ref="char:EOLhyphen"/>diterranean Sea.</p>
+            <p>One of the Emperors was <hi>Genzerichus,</hi> the moſt terrible Prince of his time. About the Year of our Lord 452, he was invited by the Empreſs <hi>Eu<g ref="char:EOLhyphen"/>doxia,</hi> after the Maſſacre of her Husband <hi>Valenti<g ref="char:EOLhyphen"/>nianus,</hi> into <hi>Italy;</hi> where he became a trouble<g ref="char:EOLhyphen"/>ſome Gueſt: He kil'd the Tyrant <hi>Maximus;</hi> he ſackt <hi>Rome,</hi> and carryed away the amorous Prin<g ref="char:EOLhyphen"/>ceſs, with ſeveral of the Nobility, and great Riches, into Captivity.</p>
+            <p>The Famous General of that time, <hi>Beliſſarius,</hi> checkt the Pride and Inſolency of his Succeſſors, and put a ſtop to the Victories and Conqueſts of the <hi>Vandals:</hi> But they were never totally ſub<g ref="char:EOLhyphen"/>dued out of <hi>Africa</hi> until the <hi>Saracens,</hi> otherwiſe called <hi>Agarens</hi> or <hi>Iſhmaelites,</hi> forced both them and the <hi>Romans</hi> to yield unto them the Authority of the Country.</p>
+            <p>
+               <hi>Hucba,</hi> a famous General, was ſent by <hi>Oſmen,</hi> the firſt <hi>Caliph</hi> of the <hi>Saracens,</hi> to begin the Con<g ref="char:EOLhyphen"/>queſt of this part of the World.</p>
+            <p>
+               <pb n="3" facs="tcp:45669:3" rendition="simple:additions"/>Since their firſt entrance into thoſe barren habi<g ref="char:EOLhyphen"/>tations, which they water'd with the <hi>Chriſtian</hi> Blood; they have remain'd in a peaceable poſſeſ<g ref="char:EOLhyphen"/>ſion, free from Forrein Invaſion, unleſs it be by ſome unhappy Princes, who have vaſt Armies at Land, and Fleets at Sea, only to recover ſome Sea<g ref="char:EOLhyphen"/>port-Towns.</p>
+            <p>The In-land-People, accuſtomed to Idleneſs and Theft, know not the benefits of Trade: Yet ſometimes Commodities are conveyed unto them, by thoſe that hazard, rather then deſign brings amongſt them; unleſs it be ſome <hi>French</hi> Pedler, or ſome miſerable <hi>Jew,</hi> that drives a few Camels loaden with Warlike Proviſions, and other neceſ<g ref="char:EOLhyphen"/>ſaries, with which their Country doth not a<g ref="char:EOLhyphen"/>bound.</p>
+            <p>They ſuffer not Strangers to Travel, becauſe they are aſhamed that their miſerable Life ſhould be known to People that live in eaſe and plenty; or becauſe they are jealous, leaſt the ſtrength of their Country, which conſiſts in the ſituation, ſhould be diſcovered by a Forreiner, and by that, the meanes of bringing of them under ſubjecti<g ref="char:EOLhyphen"/>on.</p>
+            <p>The Affairs of the Maritime Countries of <hi>A<g ref="char:EOLhyphen"/>frica</hi> have been Recorded by ſeveral Writers: but of this Kingdom of <hi>Tafilet</hi> we know nothing, ſince the laſt Conqueſt, until this famous Prince, that is come out of that Province, that Nature hath con<g ref="char:EOLhyphen"/>find
+<pb n="4" facs="tcp:45669:4"/>
+among the Deſarts. His Father was the King of this place; his Mother was a <hi>Black-more,</hi> whoſe handſome features only had recommended her to the <hi>Xeriffes</hi> Acquaintance, and advanced her to the honour of one of his Concubines: her mean deſcent did cauſe her Son at firſt to be lookt upon by the <hi>Mores</hi> as uncapable of any Advance<g ref="char:EOLhyphen"/>ment; For that reaſon I conceive he was branded with the Title of <hi>Baſtard</hi> amongſt his Enemies: His firſt and right Name is not known unto us; that which he now beares, I know not whether he hath choſen it, or whether it is only impoſed by <hi>Chriſtians;</hi> It is certain that it is borrowed from that Kingdom where he was born. At his firſt entrance into the World he had an Attendance and Education ſutable to his Fathers Eſtate.</p>
+            <p>The Learning of our Northern Climats is de<g ref="char:EOLhyphen"/>ſpiſed, and unlawful amongſt the <hi>Mahometans,</hi> who love not to burſt their braines with others in<g ref="char:EOLhyphen"/>ventions; therefore <hi>Tafiletta,</hi> for that ſhall be his Name in the following Diſcourſe, ſpent not his Youth in Contemplation, but rather in Action, in ſuch Exerciſes, that might prepare him for great Matters. He delighted to handle a Lance, to manage a Horſe, and to learn the other Arts that become a Souldier; Nature had furniſh'd him with a ſharp Wit, a ſtrong Body, and a ſound Judgment; Which Perfections by degrees did raiſe him in the eſteem of the People.</p>
+            <p>
+               <pb n="5" facs="tcp:45669:4" rendition="simple:additions"/>He continued thus in his Fathers Court, un<g ref="char:EOLhyphen"/>til death deprived him of that ſupport, and ad<g ref="char:EOLhyphen"/>vanced his elder brother to the Crown. At firſt he had his favour and protection, but jea<g ref="char:EOLhyphen"/>louſie ſoon began to diſturb their familiarity and good intelligence. And ſince it hath proceeded ſo farr that it hath cauſed the untimely death of that unhappy Prince who harboured it in his breaſt. But as this extravagant paſſion brought the <hi>Xeriffe</hi> to his grave, it hath raiſed our <hi>Tafi<g ref="char:EOLhyphen"/>letta</hi> upon an Imperial Throne. He had never crept out of his home, nor appeared upon ſo glorious a Theater, had not his brothers hatred forced him to fly.</p>
+            <p>Soon after his fathers deceaſe <hi>Tafiletta</hi> gave proofs of his Valour and great Courage, which being accompanied with a bodily ſtrength and a natural wit, did render him able to bear com<g ref="char:EOLhyphen"/>mand.</p>
+            <p>It is reported of him, that he is able with his hands, without any inſtrument, by plain force to break a ſtrong Horſe-ſhooe; and that when he leads his army he performs many times the office of a common Souldier as well as of a General with wonderful ſucceſs, And that in the Engagement, he holds his Cimeter with ſuch a tenacious fiſt that his hand cleaves to the handle, and that it cannot be looſed with<g ref="char:EOLhyphen"/>out the aſſiſtance of luke-warm water.</p>
+            <p>
+               <pb n="6" facs="tcp:45669:5"/>It is certain that he won the eſteem and fa<g ref="char:EOLhyphen"/>vour of the common People by ſuch ſeeming Declarations of his ſtrength and valour as are not uſual to the reſt of men.</p>
+            <p>And although he is a Mouletta, and by conſequence of a Countenance more ſwarthy than the natural Saracens, he hath an inſinua<g ref="char:EOLhyphen"/>ting Preſence where thoſe Characters of a noble Soul do appear, that ſeem to command both Love and Reſpect. This being accompanied with a popular ſpirit, that knew as well how to diſſemble as to command, rendered him odious to his brother, but honoured of the People. His Credit and Intereſt in the Coun<g ref="char:EOLhyphen"/>trey did give no ſuſpition, until he had the diſ<g ref="char:EOLhyphen"/>poſal of the Army, and that he was made Ge<g ref="char:EOLhyphen"/>neral. In that high Employment, his carriage was in its Element, he behaved himſelf like a Heroe.</p>
+            <p>In ſeveral encounters with the Neighbour Provinces his Valour and Conduct always car<g ref="char:EOLhyphen"/>ried away the Victory, and forced them to a ſub<g ref="char:EOLhyphen"/>miſſion.</p>
+            <p>In one of the Battels the King his brother ſhared with him in the danger, and in the ho<g ref="char:EOLhyphen"/>nour of the day, but more in the one then in the other: for as he was engaged in one of the wings againſt a ſtrong Party of the Enemy, his men were forced to draw back with the loſs of
+<pb n="7" facs="tcp:45669:5" rendition="simple:additions"/>
+a Captain and Colours; and he himſelf was ei<g ref="char:EOLhyphen"/>ther taken Priſoner, or in peril of preſent death; When <hi>Tafiletta</hi> in perſon comes with vengeance and fury to reſcue the diſtreſſed King, whom he recovers out of the Enemies hand, with the death and captivity of many of thoſe that flat<g ref="char:EOLhyphen"/>tered themſelves with an apparent victory. I know not whether this increaſed his diſpleaſure to be ſo much engaged to One whom his paſſion perſwaded to hate.</p>
+            <p>It is certain that ſoon after this ſucceſs he laboured to requite <hi>Tafiletta</hi>'s good Offices with the effuſion of his bloud; and ſought to deſtroy him whom he could not ſufficiently re<g ref="char:EOLhyphen"/>ward. There wanted not ſome Aſſiſtants to his bloody deſign, nor favourers of <hi>Tafiletta;</hi> from hence roſe a great diviſion, and a civil War, which was entertained as in ſuch like occaſions by falſe friends, who are never more active then in ſounding alarms when no cauſe appears, and never better pleaſed then in the fatal diſcord of thoſe great Families, from whoſe ruine they may have hopes to raiſe their own.</p>
+            <p>The King firſt by treachery ſought to take him out of his ſight: And when he perceived himſelf diſappointed by <hi>Tafiletta</hi>'s good fortune, and by his diligence, his prudence, and valour: He then proclaims his bloody deſign at the head of a party, with which he was reſolved to
+<pb n="8" facs="tcp:45669:6"/>
+find him out in the midſt of thoſe that had taken arms in his defence.</p>
+            <p>
+               <hi>Tafiletta</hi> with his followers was forced to ſeek his refuge in a ſpeedy flight. The Kings jea<g ref="char:EOLhyphen"/>louſie purſues him, and at a place of diſadvan<g ref="char:EOLhyphen"/>tage overtakes him; a bloody fight begins that ſends many of the inferiour ſort into another world, to carry the ſad news of this miſerable diviſion.</p>
+            <p>
+               <hi>Tafiletta</hi> encouraged his men by word and Example, but when he ſaw himſelf over-power'd by the great number of his enemies, and no way to eſcape his brothers diſpleaſure, but by ſhed<g ref="char:EOLhyphen"/>ding Royal blood: he clapt his ſpurs to his Horſe, and perceiving the King not far, he made towards him, and notwithſtanding the reſiſtance of his Guards, he ſtrook him dead to the ground. This unhappy death was followed with the flight of the Kings party, and the victory of <hi>Tafiletta,</hi> who might have made other uſe of it, to ſecure himſelf from future deſigns. But when he ſaw his Nephew advanced in his Fathers Throne, deſirous of Revenge, and not judging himſelf able with his ſmall Retinue to encounter with the ſtrength of the Countrey, he then thought a retreat to be the ſafeſt policy for himſelf and followers.</p>
+            <p>At ſome diſtance from the Kingdom of <hi>Ta<g ref="char:EOLhyphen"/>filetta</hi> there is a fruitful Province fenced with a
+<pb n="9" facs="tcp:45669:6" rendition="simple:additions"/>
+high Ridge of Hills that are not to be aſcended without wings. There is but one Avenue to this natural Fort, and that is called the Paſs, which as in other Countreys is uſually guarded for fear of a ſurpriſal. Within theſe Territories governed a Prince of a Nation and of a Religion that we could never imagine, and which in all other places renders men incapable of authority.</p>
+            <p>From father to ſon many years one of the ſame ſuperſtition had alwayes ſucceeded. He was a <hi>Jew</hi> who had made uſe of his time and command rather to gather Treaſure than to in<g ref="char:EOLhyphen"/>creaſe his Dominions. The largeneſs of his Countrey the author could not learn. The In<g ref="char:EOLhyphen"/>habitants do call it by a name which ſignifies the Mountain, here <hi>Tafiletta</hi> fled with his ſmall Party, the Jew received him with all honour and civility, and allowed him and his Followers a Corner in his Metropolis to remain with a Pen<g ref="char:EOLhyphen"/>ſion for his expences: Becauſe he was of the Blood-royal of <hi>Tafiletta,</hi> and that the Mahu<g ref="char:EOLhyphen"/>metans, that were the greateſt number of his Subjects, had for his valour and vertues a con<g ref="char:EOLhyphen"/>ſiderable eſteeme. The deſign of the Jew was to oblige the <hi>Moores</hi> and indear them unto him and his intereſt by this favourable reception of this fugitive Prince. He thought thereby to eſta<g ref="char:EOLhyphen"/>bliſh his Dominion and ſecure it from the envy
+<pb n="10" facs="tcp:45669:7"/>
+and enterpriſes of the profeſſors of the contrary Religion. Beſides, as he knew <hi>Tafiletta</hi> to be a renowned General and a Generous Perſon, he thought his valour would protect him from all invaſion.</p>
+            <p>But it fell out otherwiſe than had ima<g ref="char:EOLhyphen"/>gined, <hi>Tafiletta</hi> in ſtead of a friend proved at laſt his enemy. What occaſion was given by the Jew is not known to us. But it is certain that this Politick head was not long there before he had contrived the miſchief and death of the charitable Jew: who perceived not the danger until he felt the Cimeter in his boſome. To bring to paſs this Aſſaſſinat the <hi>Moores</hi> that ac<g ref="char:EOLhyphen"/>companied our fugitive were Inſtrumental. They ſaw that the Jews good nature had won the hearts of his Subjects, that they would not ſuf<g ref="char:EOLhyphen"/>fer him to be killed without a Revenge. And that it was but a folly to play the Maſters in a place where they were far the leſſer number. Therefore they contrived a way to engage the Proſelytes of <hi>Mahomet</hi> in this deſign.</p>
+            <p>A Pretence of Religion, a common Engine of State, was employed to overcome this difficulty, and oblige them to give their conſent. They whiſpered amongſt the People, That it was not uſual that a Jew of a ſtrange ſuperſtition, and of a miſerable diſperſed Nation ſhould bear com<g ref="char:EOLhyphen"/>mand; That it was a diſgrace unto them to
+<pb n="11" facs="tcp:45669:7" rendition="simple:additions"/>
+be vaſſals of ſuch a One; That it was not law<g ref="char:EOLhyphen"/>ſul by that Religion that they were obliged to maintain, and by which they expect future hap<g ref="char:EOLhyphen"/>pineſs, that a Jew, worſe than a Chriſtian, ſhould be Soveraign over Muſulmans true believers; And that they could never hope for their Pro<g ref="char:EOLhyphen"/>phets f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vor, if they ſuffered long this infamy to their Profeſſion, that did give-laws to all the Nations of the world.</p>
+            <p>They repreſented alſo the advantages of be<g ref="char:EOLhyphen"/>ing under a <hi>Mahumetan</hi> Prince, of a noble ſpirit, that would endeavour to enrich them with the ſpoils of their Neighbour Provinces.</p>
+            <p>Theſe and ſuch like ſuggeſtions being ſpread amongſt the unconſtant Multitude made a great alteration in their minds. Inſomuch that the Prince that yeſterday they cheriſhed, to day they condemn to the ſword. The Rebellion and the Conſpiracy ſeems not to have been diſcovered, but onely to <hi>Tafiletta</hi> and his Party, who were ſoon informed of the ſupport and aſſiſtance of the <hi>Mahumetans,</hi> in caſe they ſhould undertake any thing to free them from the ſhame of the Jewiſh Dominion. The Jew in the mean whiles, ignorant of the Plot, continued unto him his wonted kindneſs, and often invited him to eate with him. At laſt <hi>Tafiletta</hi> was attended to Supper by his Followers, armed with Cimeter and other weapons. They both ſat to their meat
+<pb n="12" facs="tcp:45669:8"/>
+upon Carpets, according to the Cuſtom of that Country; and were never more familiar and lo<g ref="char:EOLhyphen"/>ving, when one of thoſe that were preſent ſtrikes his ungrateful Weapon in the boſome of the <hi>Jew.</hi> Immediately the tumult riſes, the <hi>Moho<g ref="char:EOLhyphen"/>metans</hi> approve the Fact, and are ready with their Weapons to defend the Murderers; A Council is called of the moſt conſiderable of them, where thanks were given to <hi>Tafiletta,</hi> be<g ref="char:EOLhyphen"/>cauſe that by his meanes they had been delivered from the unlawful Authority of the <hi>Jew:</hi> And with the conſent of all he was Saluted Prince of the Mountain.</p>
+            <p>
+               <hi>Religion,</hi> that had been ſo favourable unto him in this beginning, he employes in his further de<g ref="char:EOLhyphen"/>ſigns; It hath proved ſo benificial, that of a Fu<g ref="char:EOLhyphen"/>gitive it made him firſt a little Prince, and ſince it hath raiſed him to the glory of one of the greateſt Emperors of the World; in a Country, where he had neither Relations nor Acquaintance, within the ſpace of a few Yeares.</p>
+            <p>The Armes of <hi>Alexander,</hi> and the good For<g ref="char:EOLhyphen"/>tune of <hi>Caeſar,</hi> were never more ſucceſsful unto them, then this Politick Weapon hath proved to him.</p>
+            <p>His firſt care therefore, after his Inauguration, was to perſwade his People, That he intended to Govern by Religion: that himſelf was thereby ru<g ref="char:EOLhyphen"/>led.</p>
+            <p>
+               <pb n="13" facs="tcp:45669:8" rendition="simple:additions"/>He laboured to ſecure the Intereſt of that upon which depended his ſecurity and happineſs; for that reaſon, according to the exacteſt Precepts of the <hi>Alcoran,</hi> he began to reforme his little State.</p>
+            <p>This good Policy made him firſt to be eſteem'd, and then to be obey'd: and ſince it hath given him a vain-glorious Title, to this purpoſe, <hi>Suc<g ref="char:EOLhyphen"/>ceſſor, or near Kinſman to the Prophet Mahomet.</hi> It may be that Religion that is ſo much profeſſed by him, is leaſt intended; however, he can never meet with much dufficulty in an Obedience to his Law, that is fitted to pleaſe the brutiſh and Ani<g ref="char:EOLhyphen"/>mal diſpoſitions of Men.</p>
+            <p>An inward inſtinct of Piety doth not alwayes ac<g ref="char:EOLhyphen"/>company Men of his Place and Valor, in this Age, where <hi>Atheiſm</hi> is the greateſt expreſſion of Gal<g ref="char:EOLhyphen"/>lantry, and of a noble Spirit: A few outward Grimaces, and an open Severity, againſt the Ene<g ref="char:EOLhyphen"/>mies of <hi>Mahumetiſme,</hi> are ſufficient to make him paſs for a moſt Religious Prince.</p>
+            <p>This eſteem he hath amongſt the <hi>Mores;</hi> they are infatuated with an Opinion of his Holineſs: It was firſt occaſioned by the ſtrange Accidents that happened unto him, and by outward expreſſi<g ref="char:EOLhyphen"/>ons of extraordinary Valor and Strength; which, having drawn upon him the Eyes of all Men, it was not difficult to give them a favourable conceit of his Perſon, by ſome Apiſh performances. This
+<pb n="14" facs="tcp:45669:9"/>
+Opinion hath wonderfully increaſt the number of his Subjects, and hath ſo prevailed upon the cre<g ref="char:EOLhyphen"/>dulous Spirits of the <hi>Mores,</hi> that ſcarce any but thoſe, whoſe Judgments, ſome powerful Intereſt hath healed of Superſtition, dares venture to op<g ref="char:EOLhyphen"/>poſe his Deſigns; or, if they do, it is with an in<g ref="char:EOLhyphen"/>ward fear of the Great Prophets Diſplea<g ref="char:EOLhyphen"/>ſure.</p>
+            <p>Having therefore ſo happily obtained the eſteem and Favour of the Inhabitants, with the <hi>Jewes</hi> Principality and Treaſures, he reſolved not to neglect this opportunity of raiſing himſelf. The narrow limits of the <hi>Jewes</hi> Dominions could not contain his Ambition, that aimed at the Con<g ref="char:EOLhyphen"/>queſt of the divided Empire of <hi>Morocco.</hi>
+            </p>
+            <p>Since the Maſſacre of the laſt lawful Prince, ſe<g ref="char:EOLhyphen"/>veral petty Governors, and Heads of Families were become little Soveraigns over their Juris<g ref="char:EOLhyphen"/>dictions, and had tranſmitted their Uſurped Au<g ref="char:EOLhyphen"/>thority to their Succeſſors.</p>
+            <p>
+               <hi>Bembouqua</hi> and <hi>Gayland</hi> are the beſt known un<g ref="char:EOLhyphen"/>to our Nation; the firſt was the <hi>Sultan</hi> of <hi>Fez,</hi> the laſt of that part of the Country that ſome call by the name of <hi>Suz.</hi>
+            </p>
+            <p>Theſe and the other Partners of the Empire could not be content with their Poſſeſſions, but were in continual Diſpute about the Confines. From hence roſe frequent Encounters, bloody
+<pb n="15" facs="tcp:45669:9" rendition="simple:additions"/>
+Battels, and ſuch irreconcilable hate, that it could not hear of any Mediation.</p>
+            <p>Theſe Diviſions adminiſtred a fit occaſion to our <hi>Tafiletta</hi> to further his great Deſign; He therefore firſt raiſes ſuch an Army as his Territo<g ref="char:EOLhyphen"/>ries would give him leave, and orders it according to a New Forme and manner, becauſe he could not proſecute his Purpoſe with an Army Modelled and Governed according to the Cuſtome of that Country: Where, in a General Allarum, Orders are diſpatch'd to the ſeveral <hi>Mouhadems</hi> or Colo<g ref="char:EOLhyphen"/>nels of the <hi>Provinces,</hi> to appear with their Men under their Command at the Rendeſvouz<g ref="char:punc">▪</g> Theſe ſend their Commiſſions to the Cornets or Cap<g ref="char:EOLhyphen"/>tains of the Quarters, to bring all that are able to Fight; and every one is to be furniſhed with Pro<g ref="char:EOLhyphen"/>viſion for Life, as well as Armes for Defence: for there are no Purveyors and Conveniences amongſt them, to ſupply their Wants; for that reaſon they are ſo numerous in their Armies. And that is alſo the cauſe wherefore they cannot make any long ſtay in the Field, unleſs it be in ſuch fruitful places where they may furniſh themſelves by Plunder and Theft.</p>
+            <p>To meet with theſe Inconveniences, <hi>Tafiletta</hi> made choiſe of a ſtanding Army, which increa<g ref="char:EOLhyphen"/>ſed by degrees, with his good Fortune; for its Maintenance he appointed all things neceſſary, and gave a ſufficient ſalary to his Horſe and Foot:
+<pb n="16" facs="tcp:45669:10"/>
+At preſent it is reported, that he allowes to every Horſeman 16 Dollers a Moneth, and to every Foot<g ref="char:EOLhyphen"/>man 8, ſo that his Men are not chargeable to the Countrey.</p>
+            <p>In this order he Marched firſt againſt the little Princes that did live peaceably under the Skirts of the Mountain, and made every Village, as farr as the Principality of <hi>Bouſema</hi> acknowledge his Soveraignty, and pay Tribute. The particulars of his Succeſſes, until his enterpriſes againſt that Prince, the Author could not learn.</p>
+            <p>Now <hi>Bouſema</hi> is a City that lies upon the Mouth of a ſmall River, that diſcharges it ſelf into the Mediterranean, very Commodious for Traffick. The Prince had long enjoyed the ad<g ref="char:EOLhyphen"/>vantages of Peace, and was grown very rich, for that reaſon <hi>Tafiletta</hi> thought it his Intereſt to be<g ref="char:EOLhyphen"/>gin next with him, that he might as well ſupply his wants, and recruit himſelf with his Treaſures, as take in a Sea-port Town, that would be conve<g ref="char:EOLhyphen"/>nient to receive the Chriſtian Commodities, as Powder and Shot, and other neceſſaries that he ſhould want in the proſecution of his great Deſign: Into this Country he Marched with near 20000 Horſe and Foot.</p>
+            <p>The Prince having notice of his coming, ſent his Son with a Flying Party to meet him upon the Borders, and to hinder him in ſome inconvenient paſſage, whiles he with the reſt of his Subjects,
+<pb n="17" facs="tcp:45669:10" rendition="simple:additions"/>
+and the Succors that were expected ſhould joyn in a Body.</p>
+            <p>The young Prince was not acquainted with the Stratagems of <hi>Tafiletta,</hi> who knew how to ſur<g ref="char:EOLhyphen"/>prize him and his Men unprovided, and with the loſs of a few Men took him Priſoner.</p>
+            <p>With the News of this Succeſs he ſends a Meſ<g ref="char:EOLhyphen"/>ſenger to <hi>Bouſema,</hi> to informe the old Prince; <hi>That his Deſign was not to remove him from his Prin<g ref="char:EOLhyphen"/>cipality, but to make a League with him.</hi>
+            </p>
+            <p>The Prince of <hi>Bouſema</hi> had a Daughter very handſome amongſt the <hi>Moores, Tafiletta</hi> had heard of her Beauty, Her therefore he deſires in Marriage from her Father; And Promiſed at his firſt ſight of her, to releaſe his eldeſt Son, and to leave him in a peaceable poſſeſſion of his Dominion. But threatned, in caſe of a refuſal, to Sacrifice his Son to his reſentment; and further, to proceed as far as his good Fortune would give him leave.</p>
+            <p>The Prince thought it no Policy to anger ſuch a Powerful Enemy. Therefore he ſpeedily obey<g ref="char:EOLhyphen"/>ed, and ſent his fair Daughter that was Married to the Conqueror; who kept not his Word punctu<g ref="char:EOLhyphen"/>ally with his Father-in-law: For ſince, it is not known upon what Pretence, he hath ſurprized the Town of <hi>Bouſema,</hi> when the Prince had Disband<g ref="char:EOLhyphen"/>ed his Forces. He then ſeiſed upon the place al<g ref="char:EOLhyphen"/>moſt empty of Inhabitants, enriched his Soldiers, and filled his own Purſe with the Princes Gold:
+<pb n="18" facs="tcp:45669:11"/>
+And becauſe of the Relation he reſtored him to his former Command, upon Condition, to pay ho<g ref="char:EOLhyphen"/>mage unto him and his Succeſſors.</p>
+            <p>At that time the Prince of <hi>Bouſema</hi> had ſent an Embaſſador to my Lord <hi>Bellaſys,</hi> then Governor of His Majeſties Garriſon and City of <hi>Tangiers,</hi> to de<g ref="char:EOLhyphen"/>ſire his Excellency, That there might be a fair Correſpondency between thoſe two Sea-port-Towns. My Lord, whoſe chief care all the time of his Government was to advance the Honour of His Majeſty, the Intereſt of the Nation, and of that City, willingly accepted of the Princes Propoſals, and ſent the <hi>Moore</hi> back in a Catch that waited upon the Garriſon, with ſeveral of our Men in ano<g ref="char:EOLhyphen"/>ther Boat to attend him.</p>
+            <p>At their Arrival at <hi>Bouſema</hi> they found the Prince diſtreſſed, with the unexpected coming of <hi>Tafiletta</hi>'s Army, and the <hi>Moores</hi> haſting out of the Town to ſome ſtronger Retreate.</p>
+            <p>
+               <hi>Tafiletta</hi> having performed this Expedition with wonderful ſucceſs, he Marched next with 30 thou<g ref="char:EOLhyphen"/>ſand Men againſt <hi>Gayland</hi> and <hi>Bembouqua,</hi> other<g ref="char:EOLhyphen"/>wiſe called the <hi>Santo:</hi> The latter is a Man that pretended to the ſtricteſt Sect of the <hi>Mahumetans,</hi> he was King of <hi>Fez;</hi> hearing of his Enemies ap<g ref="char:EOLhyphen"/>proaches, he put himſelf in a poſture of defence, and raiſed a conſiderable Army, which in the firſt encounter was routed, and he himſelf hardly
+<pb n="19" facs="tcp:45669:11" rendition="simple:additions"/>
+eſcaped with life. The City of <hi>Fez</hi> is ſcituate in the middle of the Kingdom. It hath the re<g ref="char:EOLhyphen"/>port of being ſtrong, and able to bear a Siege: It is adorned with many ſtately Monuments of An<g ref="char:EOLhyphen"/>tiquity. Before this City the Conqueror ſits down with his Army, ſurrounds the Walls with his Tents with Horſe and Foot, and ſends to Command them to give up the Keyes.</p>
+            <p>The Beſieged at firſt did appear Reſolved to reſiſt his Power, and defend their City; but when the Multitude began to complain of want, the Grandees called for a Parley, and yielded themſelves to <hi>Tafiletta</hi>'s good Fortune, with their City. The whole Kingdom followed the example of the Metropolis, onely ſome few Mountains near the Sea, and the Town of <hi>Saley,</hi> remained under the Government of the former Prince, until <hi>Tafiletta</hi> had leaſure to minde them.</p>
+            <p>
+               <hi>Gayland,</hi> ſeeing his Neighbours Country in a Flame, took the <hi>Alarum;</hi> he had called toge<g ref="char:EOLhyphen"/>ther about 3000 of his choiſe Horſemen, and was then lying near <hi>Alcazar,</hi> in thoſe unhappy Fields, that did once ſwim in <hi>Chriſtian</hi> Blood; and that are ſo renowned for the Slaughter of Don <hi>Sebaſtians Army,</hi> and the Death of the 3 Kings that there ended their Quarrel with their Lives together; in the ſame place <hi>Gayland</hi> hath left the Carcaſses of his beſt Souldiers.</p>
+            <p>
+               <pb n="20" facs="tcp:45669:12"/>To bring to paſs this Defeat, <hi>Tafiletta</hi> came with all ſpeed with a ſmall party of his Army to <hi>Gayland</hi>'s Countrey, that is almoſt an <hi>Iſthmus.</hi> A ſmall neck of Land; A continued Mountain joyns it to the Continent.</p>
+            <p>There is one narrow Paſſage thorow which the Conquerour was to enter into <hi>Suz,</hi> before he could deal with his Enemy: This was guarded with a ſtrong party of Muſquetiers, commanded by One whom <hi>Gayland</hi> thought faithful to his intereſt.</p>
+            <p>
+               <hi>Tafiletta</hi> preſents himſelf before the Paſs, and with ſome <hi>Spaniſh</hi> Piſtoles in his hand opens a way without the loſs of a man. The Paſſage he ſecures with a ſtrong body of horſe and foot, that it might favour his retreat in caſe he ſhould loſe the day. And then proceeds on his Jour<g ref="char:EOLhyphen"/>ney to ſeek <hi>Gayland,</hi> that lay in a wonderful ſe<g ref="char:EOLhyphen"/>curity, and dreamt not of the danger that threat<g ref="char:EOLhyphen"/>ned him.</p>
+            <p>There was one difficulty more to overcome which was not the leaſt that <hi>Tafiletta</hi> had met withal, <hi>Gayland</hi> was then attended by a body of Horſe eſteemed invincible by the <hi>Moores,</hi> to ha<g ref="char:EOLhyphen"/>zard a Battel upon equal terms with ſuch Ar<g ref="char:EOLhyphen"/>tiſts in war, in an Enemies Countrey, and with a ſmall party was open madneſs: Therefore when the Lions Paw could not prevail he employes the Foxes Pate. He labors to conceal his ſudden
+<pb n="21" facs="tcp:45669:12" rendition="simple:additions"/>
+Arrival from <hi>Gayland,</hi> and to take the advantage of his negligence, that ſo he might come by the victory without the hazard of his men.</p>
+            <p>Amongſt <hi>Tafiletta</hi>'s Followers there was an old Friend of <hi>Gayland</hi>
+               <g ref="char:punc">▪</g>s, whoſe dwelling was in the Kingdom of <hi>Fez;</hi> this man the Conquerour thinks fit for his purpoſe, he inſtructs him with his deſign, and furniſhes him with a few Ca<g ref="char:EOLhyphen"/>mels laden with the Commodities of the Coun<g ref="char:EOLhyphen"/>trey. This man journeys towards <hi>Tituan</hi> or ſome other place of note, and in his way paſſes by <hi>Gayland</hi>'s Camp, who was deſirous to hear what paſſed beyond the Mountains, and what was become of <hi>Tafiletta.</hi> The ſtranger told him that he was about fourty Leagues off with his whole Army, marching againſt a little Prince near the Kingdom of <hi>Fez.</hi>
+            </p>
+            <p>Upon this falſe news he thought to disband his Army until another time, and left them with<g ref="char:EOLhyphen"/>out Diſcipline or Guard wrapt in their Alhags, the men lying upon the ground without order that night, and their horſes feeding in the pa<g ref="char:EOLhyphen"/>ſtures. He little thought of the miſchief that was prepared for him.</p>
+            <p>
+               <hi>Tafiletta</hi> having thus ſtollen into the Coun<g ref="char:EOLhyphen"/>trey followed <hi>Gayland</hi>'s apoſtate Friend by ſe<g ref="char:EOLhyphen"/>cret wayes: and came almoſt at the ſame time undiſcovered near <hi>Alcazar.</hi>
+            </p>
+            <p>In the Evening he obſerved the countenance
+<pb n="22" facs="tcp:45669:13"/>
+of <hi>Gayland</hi>'s Army from ſome high Wood, in the which he expected the time of the night fit for his purpoſe.</p>
+            <p>Their wandring condition without order en<g ref="char:EOLhyphen"/>couraged him in the execution of his deſign, which he performed in the dead time of the night. <hi>Gayland</hi>'s m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n were almoſt all dead be<g ref="char:EOLhyphen"/>fore he could perceive the execution. Some were awakened with the groans of their fellows: Theſe laboured to recover their horſes, and be<g ref="char:EOLhyphen"/>ing lead on by the great and famous <hi>Moukadem</hi> of that Countrey, the ſecond ſon of the <hi>Shack</hi> of <hi>Angiers,</hi> they made ſome reſiſtance and diſputed with <hi>Tafiletta</hi> for the victory.</p>
+            <p>
+               <hi>Gayland</hi> ſeeing himſelf betrayed, and his men either kill'd, or ready to fly away for the ſafety of their own lives: After he had received two ſlight wounds, the one in his cheek, the other in his ſide, and loſt a horſe that was killed under him, mounted ſpeedily upon one that waited for him, paſſed by <hi>Alcazar</hi> where he took his laſt farewell of two of his Wives, and then ſaved himſelf into <hi>Arzilla,</hi> having left the ſtrength of his Countrey dead upon the ground with their great Captain, who had three horſes kill'd under him before he was overcome.</p>
+            <p>Not long before this defeat <hi>Gayland</hi> fore<g ref="char:EOLhyphen"/>ſeeing the deſign of <hi>Tafiletta,</hi> and being jealous of his misfortune, reſolved to ſtrengthen him<g ref="char:EOLhyphen"/>ſelf
+<pb n="23" facs="tcp:45669:13" rendition="simple:additions"/>
+with the friendſhip of a Chriſtian Gariſon, from whence he might ſupply <hi>Arzilla</hi> his laſt refuge with warlike proviſions fit for its defence. The <hi>Engliſh</hi> in <hi>Tangiers</hi> did command the Sea with a man of War, unto them therefore the Politick Prince ſends a Flag of Truce with Articles of Peace, when my Lord <hi>Belaſys</hi> was up<g ref="char:EOLhyphen"/>on his return for <hi>England.</hi>
+            </p>
+            <p>It was at laſt concluded very much to the ad<g ref="char:EOLhyphen"/>vantage of the Gariſon, by my Lord's wiſdom and care; The chief conditions were that <hi>Gay<g ref="char:EOLhyphen"/>land</hi> ſhould aſſiſt His Maj ſties Subjects againſt all Chriſtian enemies, and that they ſhould ſuc<g ref="char:EOLhyphen"/>cour him againſt the Mahumetans. The <hi>Engliſh</hi> did not long enjoy the benefits of this peace, <hi>Tafiletta</hi> ſoon ſeized upon the Countrey, and forced them again within their Lines, Colonel <hi>Henry Norwood,</hi> a Gentleman noted for his zeal to His Majeſties Service, did then command in chief. Without delay he diſpatches a Gentle<g ref="char:EOLhyphen"/>man by Sea to offer unto <hi>Gayland</hi> the aſſiſtance of the Gariſon, according to the Agree<g ref="char:EOLhyphen"/>ment.</p>
+            <p>At the ſame time <hi>Tafiletta</hi> ſends alſo Em<g ref="char:EOLhyphen"/>baſſadors to offer unto him his Countrey, if he would acknowledge him for his Lord; and to carry the dead body of the ſon of <hi>Shack</hi> of <hi>An<g ref="char:EOLhyphen"/>giers,</hi> which was received with much State, la<g ref="char:EOLhyphen"/>mented with pitiful howlings, and buried with
+<pb n="24" facs="tcp:45669:14"/>
+ſtrange Ceremonies, which are related in other Travels.</p>
+            <p>
+               <hi>Gayland</hi> would not accept of his Enemies courteſie, but ſent back the Embaſſadours with<g ref="char:EOLhyphen"/>out Anſwer: The One was the Cadir of <hi>Ar<g ref="char:EOLhyphen"/>zilla,</hi> the great Judge of the Law of <hi>Mahomet,</hi> that had revolted to <hi>Tafiletta,</hi> with one of the Secretaries of State. <hi>Gayland</hi> received him with civility, and ſuffered him to tranſport out of the Caſtle his Wives and ſubſtance, that yet did re<g ref="char:EOLhyphen"/>main in his poſſeſſion.</p>
+            <p>The Conquerour after the ruine of the Ar<g ref="char:EOLhyphen"/>my found none to reſiſt his power but the old <hi>Shack</hi> of <hi>Angiers,</hi> a man onely fit for his grave, and the City of <hi>Tituan,</hi> that did ſeem to be ſory after the victory, but when they ſaw no ſafety but in a ſpeedy flight, or an humble ſubmiſ<g ref="char:EOLhyphen"/>ſion<g ref="char:punc">▪</g> they then ſought to make their Peace.</p>
+            <p>
+               <hi>Tafiletta</hi> having ſo happily brought all the Countrey under his Command, eſtabliſhed there a Lieutenant with a flying Party to ſuppreſs all ſudden Motions that ſhould tend to a Rebellion. And before his depart he endeavoured in vain to draw the <hi>Engliſh</hi> from <hi>Gayland</hi>'s friendſhip with great Promiſes of Rewards and Priviledges: and gave a furious aſſault to <hi>Arzilla</hi> to as little purpoſe, with the loſs of many of his men, kil<g ref="char:EOLhyphen"/>led with the great Ordnance, that was managed by ſome few <hi>Engliſh.</hi> The great injuries re<g ref="char:EOLhyphen"/>ceived
+<pb n="25" facs="tcp:45669:14" rendition="simple:additions"/>
+they have ſince rewarded at ſeveral times with notable Courteſies. They have laboured to protect him who had been a bloody Enemy to their Gariſon. But as their undeſerved faith<g ref="char:EOLhyphen"/>fulneſs did wonderfully encourage his favourers in his defence, it hath purchaſed no little eſteem to the <hi>Engliſh</hi> Nation amongſt the <hi>Mahumetan</hi> Princes of <hi>Barbary,</hi> who will be more willing to enter into their Alliance upon whoſe promiſes they may ſafely rely.</p>
+            <p>At that time <hi>Gayland</hi> was attended and guarded with near 2000 Souldiers and Inhabi<g ref="char:EOLhyphen"/>tants of <hi>Arzilla.</hi> With theſe he made ſeveral inroads into the Countrey, as ſoon as he had notice of <hi>Tafiletta</hi>'s Retreat. He returned with the ſpoils of his revolted Subjects. But by ſuch mean Conqueſts he loſt the hopes of conquering and recovering the Hearts of the people, who afterwards did ſo watchfully obſerve the mo<g ref="char:EOLhyphen"/>tions of his men, that they cut off 400 of theſe Commiſſioned Robbers with One of <hi>Gayland</hi>
+               <g ref="char:punc">▪</g>s Brothers. After this unſeaſonable defeat, <hi>Gay<g ref="char:EOLhyphen"/>land</hi> ſeeing his affairs in a deſperate caſe he di<g ref="char:EOLhyphen"/>ſpatch'd a Meſſenger to the Port to reſign un<g ref="char:EOLhyphen"/>to the Grand <hi>Segnior</hi> his intereſt to <hi>Suz,</hi> hoping that the Protection of ſo great a Prince might draw <hi>Tafiletta</hi> to ſome conditions of Peace, or at leaſt oblige the <hi>Turk</hi> to ſend him by the City of <hi>Argiers</hi> ſome ſuccours, but this Policy
+<pb n="26" facs="tcp:45669:15"/>
+hath proved prejudicial to him, for it hath ſo much alienated from him the <hi>Moores,</hi> who are no friends to the encroaching power of the Great <hi>Sultan,</hi> that thoſe that yet did favour and deſire his re-eſtabliſhment are at preſent his profeſſed enemies: and his own ſervants endeavoured to purchaſe <hi>Tafiletta</hi>'s favour by the delivery of his perſon, but were diſappointed by his flight to <hi>Ar<g ref="char:EOLhyphen"/>giers,</hi> where he now leads a private life free from the fears of his former eſtate.</p>
+            <p>
+               <hi>Tafiletta</hi> hath ſince enlarged his Dominions as farr as <hi>Morocco,</hi> and conquered ſeveral Kingdoms. He hath lately got ſix Dutch men skill'd in the caſting of great Guns: Their aſſiſtance he makes uſe of in the battering down of Towns that re<g ref="char:EOLhyphen"/>ſiſt his Power.</p>
+            <argument>
+               <p>The firſt part of this Relation, ſo farr as concerns <hi>Tafiletta,</hi> was delivered into the Authors hands by a Merchant of <hi>Provence</hi> reſident in <hi>Arzilla,</hi> acquainted with the affairs of the Countrey, by reaſon of his long abode amongſt the <hi>Moores,</hi> and his Journeys that he had made in the Land.</p>
+            </argument>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45669:15" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
